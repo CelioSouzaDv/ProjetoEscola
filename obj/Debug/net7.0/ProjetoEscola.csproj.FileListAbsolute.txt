@@ -1,0 +1,15 @@
+C:\Users\Celio\Desktop\C#\aulasCsharp\ProjetoEscola\bin\Debug\net7.0\ProjetoEscola.exe
+C:\Users\Celio\Desktop\C#\aulasCsharp\ProjetoEscola\bin\Debug\net7.0\ProjetoEscola.deps.json
+C:\Users\Celio\Desktop\C#\aulasCsharp\ProjetoEscola\bin\Debug\net7.0\ProjetoEscola.runtimeconfig.json
+C:\Users\Celio\Desktop\C#\aulasCsharp\ProjetoEscola\bin\Debug\net7.0\ProjetoEscola.dll
+C:\Users\Celio\Desktop\C#\aulasCsharp\ProjetoEscola\bin\Debug\net7.0\ProjetoEscola.pdb
+C:\Users\Celio\Desktop\C#\aulasCsharp\ProjetoEscola\obj\Debug\net7.0\ProjetoEscola.csproj.AssemblyReference.cache
+C:\Users\Celio\Desktop\C#\aulasCsharp\ProjetoEscola\obj\Debug\net7.0\ProjetoEscola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Celio\Desktop\C#\aulasCsharp\ProjetoEscola\obj\Debug\net7.0\ProjetoEscola.AssemblyInfoInputs.cache
+C:\Users\Celio\Desktop\C#\aulasCsharp\ProjetoEscola\obj\Debug\net7.0\ProjetoEscola.AssemblyInfo.cs
+C:\Users\Celio\Desktop\C#\aulasCsharp\ProjetoEscola\obj\Debug\net7.0\ProjetoEscola.csproj.CoreCompileInputs.cache
+C:\Users\Celio\Desktop\C#\aulasCsharp\ProjetoEscola\obj\Debug\net7.0\ProjetoEscola.dll
+C:\Users\Celio\Desktop\C#\aulasCsharp\ProjetoEscola\obj\Debug\net7.0\refint\ProjetoEscola.dll
+C:\Users\Celio\Desktop\C#\aulasCsharp\ProjetoEscola\obj\Debug\net7.0\ProjetoEscola.pdb
+C:\Users\Celio\Desktop\C#\aulasCsharp\ProjetoEscola\obj\Debug\net7.0\ProjetoEscola.genruntimeconfig.cache
+C:\Users\Celio\Desktop\C#\aulasCsharp\ProjetoEscola\obj\Debug\net7.0\ref\ProjetoEscola.dll
