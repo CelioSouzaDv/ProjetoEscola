@@ -1,4 +1,4 @@
-# ProjetoEscola
+# ProjetoEscola - Primeiro projeto em C# desenvolvido 100% sozinho
 Sistema de Boletim Escolar
 Projeto criado no intuito de treinar minhas habilidade/conhecimento na linguagem C#.</br>
 Criei um sistema de boletim escolar, onde você preenche as seguintes informações:</br>
